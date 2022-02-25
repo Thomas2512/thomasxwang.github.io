@@ -126,8 +126,8 @@ print(&amp;quot;Eating...&amp;quot;)
 &lt;h2 id="math">Math&lt;/h2>
 &lt;p>In-line math: $x + y = z$&lt;/p>
 &lt;p>Block math:&lt;/p>
-&lt;p>$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+&lt;p>$$&lt;br>
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}&lt;br>
 $$&lt;/p>
 &lt;hr>
 &lt;h2 id="fragments">Fragments&lt;/h2>
